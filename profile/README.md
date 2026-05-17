@@ -12,5 +12,5 @@ Part of this research, I have also created several applications.
 
 An application to record and/or process voice note recording into text using Whisper.
 
-  - [VoiceNotes Android](https://githubc.com/gbraad-apps/voicenotes-android)
-  - [VoiceNotes Desktop](https://githubc.com/gbraad-apps/voicenotes-desktop)
+  - [VoiceNotes Android](https://github.com/gbraad-apps/voicenotes-android)
+  - [VoiceNotes Desktop](https://github.com/gbraad-apps/voicenotes-desktop)
